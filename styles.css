@@ -1,0 +1,17 @@
+.inputs-block {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.element {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+
+.generate-button {
+    background-color: #2b2b2b;
+    color: #fff;
+}
